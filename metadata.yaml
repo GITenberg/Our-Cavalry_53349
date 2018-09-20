@@ -1,0 +1,25 @@
+_repo: Our-Cavalry_53349
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rimington, Michael Frederic
+    alias: Rimington, M. F.
+    birthdate: 1858
+    deathdate: 1928
+    gutenberg_agent_id: '47334'
+    url: http://www.gutenberg.org/2009/agents/47334
+description: ''
+gutenberg_issued: '2016-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'UE'
+- !lcsh 'Great Britain. Army -- Cavalry'
+- GITenberg
+title: Our Cavalry
+url: http://www.gutenberg.org/ebooks/53349
